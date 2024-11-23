@@ -3,9 +3,8 @@ completed this project as part of my BI with PowerBl Course with United Network 
 Key highlights:
 1. Analyzed sales performance across segments and proposed targeted efforts to grow government contracts and stabilize
 2. ldentified high-margin products and peak profitability periods, recommending strategies to capitalize on these opportunities.
-3.
-Proposed measures to reduce high COGS products and optimize production costs, focusing on efficiency in key areas
-D Reviewed pricing models and discount strategies to balance profitability with market competitiveness.
+3.Proposed measures to reduce high COGS products and optimize production costs, focusing on efficiency in key areas
+4. Reviewed pricing models and discount strategies to balance profitability with market competitiveness.
 5. Suggested regional strategies to maximize performance in high-sales areas like Canada and France, and prepared for
 spikes.
 6. Used various measures in this project to calculate.
